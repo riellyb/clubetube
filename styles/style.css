@@ -1,5 +1,9 @@
 .title {
-    color: #0ec21d;
+    color: #14b1b3;
     font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
+p, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-weight: 900;color: #40a729;
 }
